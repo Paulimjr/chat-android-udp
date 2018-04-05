@@ -3,7 +3,7 @@ Chat using Android with UDP. <img class="emoji" alt="android" height="20" width=
 
 - Steps for test
   - Run Server in this project > https://github.com/Paulimjr/chat-java-udp
-  - Run Client (One or more in this project > https://github.com/Paulimjr/chat-java-udp)
+  - Run JanelaMensagem (One or more in this project > https://github.com/Paulimjr/chat-java-udp)
   - Run the application on your phone
   - Enter with Server IP
   - Type "@" to connect in the chat to exit type "espace".
