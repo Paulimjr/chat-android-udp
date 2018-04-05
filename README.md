@@ -6,7 +6,7 @@ Chat using Android with User Datagram Protocol (UDP). <img class="emoji" alt="an
   - Run JanelaMensagem (One or more in this project > https://github.com/Paulimjr/chat-java-udp)
   - Run the application on your phone
   - Enter with Server IP
-  - Type "@" to connect in the chat to exit type "espace".
+  - Type "@" to connect in the chat to exit type "space".
   
   ![Screenshot](https://github.com/Paulimjr/chat-android-udp/blob/master/app/src/main/res/drawable/Screenshot_2018-04-04-21-49-00.png "Home screen")
   
